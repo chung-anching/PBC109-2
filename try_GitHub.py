@@ -12,3 +12,7 @@ def cal(t, n):
     elif x_limit == 3:
         print(y_limit**3)
 cal(x_limit,y_limit)
+
+class Food:
+    def __init__(selfself,price):
+        self.price = price
