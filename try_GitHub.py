@@ -10,5 +10,5 @@ def cal(t, n):
     elif x_limit == 2:
         print(math.log(y_limit))
     elif x_limit == 3:
-        print(y_limit**4)
+        print(y_limit**3)
 cal(x_limit,y_limit)
